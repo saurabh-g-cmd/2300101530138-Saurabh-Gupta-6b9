@@ -23,21 +23,25 @@ Backend: Django (Python)
 Frontend: HTML, CSS, JavaScript
 Database: SQLite (default Django DB, can be upgraded)
 Authentication: Django built-in user system
+
 🔑 Key Features
 🔐 User Authentication
 Secure login and registration system
 Personalized dashboard for each user
+
 🏃 Workout Logging
 Add exercises with:
 Type of workout
 Duration
 Calories burned
 Maintain daily fitness records
+
 🎯 Goal Setting
 Set and track fitness goals:
 Weight loss
 Muscle gain
 General fitness
+
 📊 Progress Tracking
 Visual reports with charts and graphs
 Track improvement over time
